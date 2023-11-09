@@ -1,4 +1,4 @@
-from network_diffusion_model import NDM
+from code.network_diffusion_model import NDM
 
 class FKPP(NDM):
     def __init__(self, connectome_fname, gamma, t, x_0):
