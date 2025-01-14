@@ -1,3 +1,5 @@
+### Please see https://github.com/ucl-pond/network_spreading_models for the latest version of the toolbox 
+
 ## Network Spreading Models Toolbox
 Connectome-based models of disease propagation are used to probe mechanisms of
 pathology spread in neurodegenerative disease. We present our network spreading model toolbox that allows the user to compare model fits across different models and parameters.
